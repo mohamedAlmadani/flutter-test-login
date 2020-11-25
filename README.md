@@ -1,4 +1,4 @@
-# flutter_auth
+# flutter_auth_testing
 
 A new Flutter project.
 
